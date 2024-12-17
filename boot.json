@@ -1,0 +1,117 @@
+{
+
+  "name": "教师组小跟宠",
+
+  "version": "1.0.0",
+
+  "styleFileList": [],
+
+  "scriptFileList": [],
+
+  "tweeFileList": [],
+
+  "additionFile": [],
+
+  "imgFileList": [
+
+     "img/clothes/head/mason/full.png",
+
+     "img/clothes/head/sirris/full.png",
+
+     "img/clothes/head/doren/full.png",
+
+     "img/clothes/head/winter/full.png",
+
+     "img/clothes/head/river/full.png",
+
+     "img/clothes/head/leighton/full.png",
+
+     "img/clothes/head/mason/back.png",
+
+     "img/clothes/head/sirris/back.png",
+
+     "img/clothes/head/doren/back.png",
+
+     "img/clothes/head/winter/back.png",
+
+     "img/clothes/head/river/back.png",
+
+     "img/clothes/head/leighton/back.png",
+
+     "img/misc/icon/clothes/mason.png",
+
+     "img/misc/icon/clothes/sirris.png",
+
+     "img/misc/icon/clothes/doren.png",
+
+     "img/misc/icon/clothes/winter.png",
+
+     "img/misc/icon/clothes/river.png",
+
+     "img/misc/icon/clothes/leighton.png"        
+
+  ],
+
+  "addonPlugin": [
+
+    {
+
+      "modName": "ModdedClothesAddon",
+
+      "addonName": "ModdedClothesAddon",
+
+      "modVersion": "^1.1.0",
+
+      "params": {
+
+        "clothes": [
+
+          {
+
+            "key": "head",
+
+            "filePath": "clothes/head.json"
+
+          }
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "modName": "ModLoader DoL ImageLoaderHook",
+
+      "addonName": "ImageLoaderAddon",
+
+      "modVersion": "^2.3.0",
+
+      "params": []
+
+    }
+
+  ],
+
+  "dependenceInfo": [
+
+    {
+
+      "modName": "ModdedClothesAddon",
+
+      "version": "^1.1.0"
+
+    },
+
+    {
+
+      "modName": "ModLoader DoL ImageLoaderHook",
+
+      "version": "^2.3.0"
+
+    }
+
+  ]
+
+}
