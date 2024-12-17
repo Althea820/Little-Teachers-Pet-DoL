@@ -46,7 +46,18 @@ Directly using modloader, you don’t have to decompress the file.
 
 ## 版本/更新日志 Version
 
-1.0.0：男性六名学校教师跟宠（西里斯瑞沃多伦温特梅森礼顿）
+1.0.0：男性六名学校教师跟宠（西里斯、瑞沃、多伦、温特、梅森、礼顿）
+
 1.0.0: Six male school teacher's "pets" (Sirris, River, Doren, Winter, Mason, Leighton)
 
-## 
+<header>
+
+## 问题反馈 Feedback
+
+discord：stbakedcheesecake
+qq：3230726592
+
+<header>
+
+QQ教师组交流群
+/
