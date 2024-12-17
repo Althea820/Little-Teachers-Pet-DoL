@@ -61,3 +61,10 @@ qq：3230726592
 
 QQ教师组交流群
 /
+
+<header>
+
+## 图片预览 Preview
+
+![1734417152866](https://github.com/user-attachments/assets/91b74140-effa-4627-bc57-5a1f7b56eee5)
+![Picsart_24-12-17_14-29-03-161](https://github.com/user-attachments/assets/b0d70110-ea48-4f29-96bd-056579be0f06)
