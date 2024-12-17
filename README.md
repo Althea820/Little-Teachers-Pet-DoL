@@ -9,7 +9,18 @@
 
 # Teacher‘s Little Pet 教师组小跟宠
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+此为DoL教师组的小跟宠mod，会生成在PC小人的左侧，跟宠位置按照了原版及BESC美化的摆放位置。
+如使用其他美化，位置有可能会被本体挡住，可自行储存clothes/head/该角色的png图档移动像素位置。
+
+⚠️请使用modloader加载此mod⚠️
+
+This is a little pet mod of the DoL teachers.
+It will be generated on the left side of PC.
+The position of the little pet follows the original and BESC placement.
+If other beautification is used, the position may be blocked by the body.
+You can save the clothes/head/png image of the character to move the position in pixels.
+
+⚠️Please use modloader to load this mod⚠️
 
 </header>
 
@@ -21,22 +32,16 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Enable GitHub Pages
+## 内容 Content
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+形象是我流的男性♂教师！后续有可能会新增女性版本。不是官方形象！
+可以二改形象，但请标注我！
+除本人/QQ群内成员，不希望大范围二转此mod。
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+The image is my personal imagination of a male teacher! 
+Female version may be added in the future. Not an official image!
+You can change the image, but please tag me! 
+Except for myself/members of the QQ group, I don’t want this mod to be re-transformed on a large scale.
 
 <footer>
 
