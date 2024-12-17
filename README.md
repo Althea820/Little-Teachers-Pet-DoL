@@ -23,10 +23,10 @@ You can save the clothes/head/png image of the character to move the position in
 可以二改形象，但请标注我！
 除本人/QQ群内成员，不希望大范围二转此mod。
 
-The image is my personal imagination of a male teacher! 
+The image is my personal imagination of male teachers! 
 Female version may be added in the future. Not an official image!
 You can change the image, but please tag me! 
-Except for myself/members of the QQ group, I don’t want this mod to be re-transformed on a large scale.
+Except for myself/members of the QQ group, please don’t re-transformed the mod on a large scale.
 
 <header>
 
@@ -38,8 +38,15 @@ Except for myself/members of the QQ group, I don’t want this mod to be re-tran
 直接使用modloader加载，不需要解压缩。
 
 →The gamepack with modloader 
-→Zip archive of this mod Load
+→Zip file of this mod
 
 Directly using modloader, you don’t have to decompress the file.
 
-</footer>
+<header>
+
+## 版本/更新日志 Version
+
+1.0.0：男性六名学校教师跟宠（西里斯瑞沃多伦温特梅森礼顿）
+1.0.0: Six male school teacher's "pets" (Sirris, River, Doren, Winter, Mason, Leighton)
+
+## 
